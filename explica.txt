@@ -1,0 +1,3 @@
+Baixar o arquivo no ava aula do dia 10/03
+entrar dentro da pasta e digitar npm i para instalar os pacotes
+digite npx expo start para iniciar o app
