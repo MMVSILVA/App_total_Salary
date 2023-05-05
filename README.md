@@ -17,4 +17,5 @@ export function Home() {
     
   ]
   
-  OBS: TODOS OS DADOS DA ARRAY dados fictícios.
+  OBS: TODOS OS DADOS DA ARRAY são fictíciosfict.
+  
